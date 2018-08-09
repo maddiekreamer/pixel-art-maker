@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+}
+
+.cell {
+    width: 20px;
+    height: 20px;
+    border: solid 1px black
+}
+
+.brush {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border-radius: 100%;
+    border: solid 1px black;
+}
